@@ -1,4 +1,7 @@
 <?php
+// input  : 
+// output :
+
 
 $arr = [3,6,15,23];
 $val = 0;
